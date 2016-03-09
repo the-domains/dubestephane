@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Plongeur PADI, spécialité Ice diver'
-datePublished: '2016-03-09T23:51:47.733Z'
-dateModified: '2016-03-09T23:51:38.474Z'
+datePublished: '2016-03-09T23:53:25.953Z'
+dateModified: '2016-03-09T23:53:13.679Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-09-plongeur-padi-specialite-ice-diver.md
