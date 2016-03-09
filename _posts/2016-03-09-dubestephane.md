@@ -1,23 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Webdesigner
-datePublished: '2016-03-09T22:48:43.859Z'
-dateModified: '2016-03-09T22:48:43.397Z'
+datePublished: '2016-03-09T22:51:51.614Z'
+dateModified: '2016-03-09T22:51:38.354Z'
 title: DUBESTEPHANE
 author: []
+sourcePath: _posts/2016-03-09-dubestephane.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-dubestephane.md
-published: true
+url: dubestephane/index.html
 _context: 'http://schema.org'
 _type: Article
 
