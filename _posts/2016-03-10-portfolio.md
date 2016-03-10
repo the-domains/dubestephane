@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'http://plongeecarloslopez.com'
-datePublished: '2016-03-10T18:44:07.324Z'
-dateModified: '2016-03-10T18:43:38.243Z'
+datePublished: '2016-03-10T18:54:19.468Z'
+dateModified: '2016-03-10T18:54:11.283Z'
 title: Mon portfolio
 author: []
 sourcePath: _posts/2016-03-10-portfolio.md
@@ -32,7 +32,7 @@ L'école de plongée Carlos Lopez possède le plus vaste inventaire d'équipemen
 **http://plongeecarloslopez.com**
 
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f76f019e-016c-4830-8e68-d06e591d16d0.jpg)
+![Christine Mongeau](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f76f019e-016c-4830-8e68-d06e591d16d0.jpg)
 
 ## Christine Mongeau, courtier immobiler ReMax
 
