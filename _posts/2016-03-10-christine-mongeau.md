@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'http://christinemongeau.com/'
-datePublished: '2016-03-10T16:29:36.607Z'
-dateModified: '2016-03-10T16:29:26.489Z'
+datePublished: '2016-03-10T16:31:36.126Z'
+dateModified: '2016-03-10T16:31:35.414Z'
 title: Christine Mongeau
 author: []
 authors: []
