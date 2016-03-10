@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Plongeur PADI, spécialité Ice diver 2015'
-datePublished: '2016-03-10T18:47:21.423Z'
-dateModified: '2016-03-10T18:47:10.852Z'
+datePublished: '2016-03-10T18:54:19.506Z'
+dateModified: '2016-03-10T18:47:29.486Z'
 title: Plongeur PADI
 author: []
 sourcePath: _posts/2016-03-09-plongeur-padi-specialite-ice-diver.md
