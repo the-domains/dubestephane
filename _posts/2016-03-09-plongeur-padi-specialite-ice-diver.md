@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Plongeur PADI, spécialité Ice diver 2015'
-datePublished: '2016-03-10T17:22:28.600Z'
-dateModified: '2016-03-10T17:22:24.428Z'
+datePublished: '2016-03-10T18:47:21.423Z'
+dateModified: '2016-03-10T18:47:10.852Z'
 title: Plongeur PADI
 author: []
 sourcePath: _posts/2016-03-09-plongeur-padi-specialite-ice-diver.md
@@ -22,12 +22,13 @@ url: plongeur-padi-specialite-ice-diver/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9fc3c76-65b1-4bd9-897d-69d3dfec3f70.jpg)
+# Plongeur PADI
+![Stéphane Dubé](https://s3-us-west-2.amazonaws.com/the-grid-img/p/50312ea6db9376a6f76209d4fc8857cb830d493c.jpg)
 
 Plongée en Thailande, mer Adaman, 2016
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54672285-04db-41c1-b574-c24216a37ef9.jpg)
+![Stéphane Dubé](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8ffafd7fb0dfb0a55327b88ca9d54072af8fa42.jpg)
 
 Plongeur PADI, spécialité Ice diver 2015
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff166834-3ecf-417a-991c-4d63f286dfd1.jpg)
+![Stéphane Dubé](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab2908c26228a23695a4c48b75a30d43030b26cf.jpg)
 
 Formation dans la piscine à vague H2O, Trois-Rivières, 2013
