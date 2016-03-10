@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'L’école de plongée Carlos Lopez possède le plus vaste inventaire d’équipements usagés en Mauricie. Qu’ils agissent de vestes, wetsuits, palmes, bouteilles, masques, etc, avec ou sans programme d’échange. Vous trouverez les accessoires USAGÉS nécessaires afin d’évolué en plongée sous-marine.'
-datePublished: '2016-03-10T18:40:25.760Z'
-dateModified: '2016-03-10T18:37:45.519Z'
-title: Portfolio
+description: 'http://plongeecarloslopez.com'
+datePublished: '2016-03-10T18:44:07.324Z'
+dateModified: '2016-03-10T18:43:38.243Z'
+title: Mon portfolio
 author: []
 sourcePath: _posts/2016-03-10-portfolio.md
 published: true
@@ -22,10 +22,20 @@ url: portfolio/index.html
 _type: WebPage
 
 ---
-![Plongée Carlos Lopez](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e2bb834-08ac-48a8-b016-404aa5e88e5b.jpg)
+# Mon portfolio
+![Plongée Carlos Lopez](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e34cd8e2ef272f1f124b39a36d23ff139b010c2.jpg)
 
-Plongée Carlos Lopez, Shawinigan
+## Plongée Carlos Lopez, Shawinigan
 
 L'école de plongée Carlos Lopez possède le plus vaste inventaire d'équipements usagés en Mauricie. Qu'ils agissent de vestes, wetsuits, palmes, bouteilles, masques, etc, avec ou sans programme d'échange. Vous trouverez les accessoires USAGÉS nécessaires afin d'évolué en plongée sous-marine.
 
-http://plongeecarloslopez.com
+**http://plongeecarloslopez.com**
+
+****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f76f019e-016c-4830-8e68-d06e591d16d0.jpg)
+
+## Christine Mongeau, courtier immobiler ReMax
+
+Vous n'êtes pas sans savoir qu'il est essentiel que votre Courtier Immobilier partage les mêmes valeurs que vous! Je suis convaincue que ma détermination, ainsi que mon leadership, nous permettront de mener à bien nos futures transactions! J'ai tous les outils en main pour vous offrir une mise en marché stimulante créant des RÉSULTATS efficaces!
+
+**http://christinemongeau.com**
