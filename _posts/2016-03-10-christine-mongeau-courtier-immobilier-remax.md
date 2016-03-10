@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Mon portfolio
-datePublished: '2016-03-10T18:27:36.470Z'
-dateModified: '2016-03-10T18:26:41.406Z'
+datePublished: '2016-03-10T18:27:47.005Z'
+dateModified: '2016-03-10T18:27:43.911Z'
 title: 'Christine Mongeau, courtier immobilier ReMax'
 author: []
 sourcePath: _posts/2016-03-10-christine-mongeau-courtier-immobilier-remax.md
