@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'http://christinemongeau.com/'
-datePublished: '2016-03-10T17:48:05.161Z'
-dateModified: '2016-03-10T17:47:09.355Z'
+description: 'Création du site Christine Mongeau, courtier immobilier ReMax'
+datePublished: '2016-03-10T17:50:29.298Z'
+dateModified: '2016-03-10T17:48:12.978Z'
 title: Christine Mongeau
 author: []
+sourcePath: _posts/2016-03-10-christine-mongeau.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-christine-mongeau.md
-published: true
 _type: Blurb
 
 ---
@@ -27,9 +27,13 @@ Création du site Christine Mongeau, courtier immobilier ReMax
 
 [][0]
 
+http://christinemongeau.com/
+
+" target="\_blank"
+
 [][1][][1]
 
 
 
-[0]: </p><p>http://christinemongeau.com/</p><p>
+[0]: href
 [1]: https://app.thegrid.io/posts/dc25d9cb-9bb8-481e-bba7-69795a6b54df/null
