@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'L’école de plongée Carlos Lopez possède le plus vaste inventaire d’équipements usagés en Mauricie. Qu’ils agissent de vestes, wetsuits, palmes, bouteilles, masques, etc, avec ou sans programme d’échange. Vous trouverez les accessoires USAGÉS nécessaires afin d’évolué en plongée sous-marine.'
-datePublished: '2016-03-10T18:32:18.071Z'
-dateModified: '2016-03-10T18:32:15.668Z'
+datePublished: '2016-03-10T18:37:39.556Z'
+dateModified: '2016-03-10T18:34:55.842Z'
 title: Portfolio
 author: []
+sourcePath: _posts/2016-03-10-portfolio.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-portfolio.md
-published: true
 url: portfolio/index.html
 _type: WebPage
 
