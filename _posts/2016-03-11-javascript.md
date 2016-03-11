@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: 'https://www.javascript.com/'
 inLanguage: null
 starred: false
 keywords: []
 description: Programmeur JavaScript
-datePublished: '2016-03-11T15:30:39.533Z'
-dateModified: '2016-03-11T15:30:39.033Z'
+datePublished: '2016-03-11T19:19:50.113Z'
+dateModified: '2016-03-11T15:45:32.142Z'
 title: JavaScript
 author: []
 sourcePath: _posts/2016-03-11-javascript.md
@@ -19,10 +19,10 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+_type: MediaObject
 
 ---
 Programmeur JavaScript
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6dc64fc0-12b5-4cae-b27a-265d48113980.png)
+![Javascript](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b6dfb4f8a1a1330bfdb636d028dcb0e61d76e3f.png)
 
 https://www.javascript.com/
