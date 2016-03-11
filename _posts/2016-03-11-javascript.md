@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Programmeur JavaScript
-datePublished: '2016-03-11T04:46:16.111Z'
-dateModified: '2016-03-11T04:40:55.328Z'
+datePublished: '2016-03-11T15:30:39.533Z'
+dateModified: '2016-03-11T15:30:39.033Z'
 title: JavaScript
 author: []
 sourcePath: _posts/2016-03-11-javascript.md
