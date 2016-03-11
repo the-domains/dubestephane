@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Programmeur JavaScript
-datePublished: '2016-03-11T04:40:51.103Z'
-dateModified: '2016-03-11T04:31:33.654Z'
+datePublished: '2016-03-11T04:46:16.111Z'
+dateModified: '2016-03-11T04:40:55.328Z'
 title: JavaScript
 author: []
 sourcePath: _posts/2016-03-11-javascript.md
