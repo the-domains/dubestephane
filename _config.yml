@@ -1,20 +1,4 @@
-name: dubestephane
-favicon: null
-layout_spectrum: 0.25613
 typography_spectrum: 1
-title: 'Stephane Dube, webdesigner'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#0d0d0b'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5625
   saturation: 0.75
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.25613
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: dubestephane
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Stephane Dube, webdesigner'
+description: Toujours là pour vous !
 purpose: []
