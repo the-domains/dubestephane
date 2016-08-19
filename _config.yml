@@ -28,6 +28,9 @@ navigation:
   - name: Contact
     id: 58c00572-cb2a-4ddf-9735-38c63c74f764
     type: content
+  - name: Mon portfolio
+    id: b59c1b32-a397-4796-8c0a-083637e665b2
+    type: content
 favicon: null
 title: 'Stephane Dube, webdesigner'
 description: Toujours là pour vous !
