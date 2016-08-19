@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: 'http://plongeecarloslopez.com'
-datePublished: '2016-03-11T19:52:07.632Z'
-dateModified: '2016-03-11T19:48:03.165Z'
-title: Mon portfolio
-author: []
+datePublished: '2016-08-19T01:08:59.877Z'
+dateModified: '2016-08-19T01:08:58.697Z'
+title: ''
+author:
+  - name: Stéphane Dubé
+    url: ''
 sourcePath: _posts/2016-03-10-portfolio.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: portfolio/index.html
 _type: WebPage
 
